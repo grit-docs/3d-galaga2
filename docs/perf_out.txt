@@ -1,0 +1,6 @@
+MENU      fps=  60 avg=16.63 p50=16.50 p90=18.30 p99=19.20 spikes>33ms=0 
+WAVE4     fps=  57 avg=17.56 p50=16.80 p90=19.80 p99=26.60 spikes>33ms=2 | enemies=13
+WAVE4+3s  fps=  57 avg=17.70 p50=16.60 p90=18.90 p99=61.60 spikes>33ms=3 
+BOSS-p3   fps=  54 avg=18.74 p50=17.50 p90=20.10 p99=78.50 spikes>33ms=6 | enemies=6 hostiles=28
+BOSS+3s   fps=  54 avg=18.44 p50=17.90 p90=21.10 p99=47.20 spikes>33ms=3 | hostiles=109
+SCENE     total=1258 meshes=1102 lights=4 lines=2 points=2
